@@ -1,0 +1,15 @@
+/Users/virginialu/Projects/CSharpHW4/CSharpHW4/obj/Debug/net6.0/CSharpHW4.csproj.AssemblyReference.cache
+/Users/virginialu/Projects/CSharpHW4/CSharpHW4/obj/Debug/net6.0/CSharpHW4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/virginialu/Projects/CSharpHW4/CSharpHW4/obj/Debug/net6.0/CSharpHW4.AssemblyInfoInputs.cache
+/Users/virginialu/Projects/CSharpHW4/CSharpHW4/obj/Debug/net6.0/CSharpHW4.AssemblyInfo.cs
+/Users/virginialu/Projects/CSharpHW4/CSharpHW4/obj/Debug/net6.0/CSharpHW4.csproj.CoreCompileInputs.cache
+/Users/virginialu/Projects/CSharpHW4/CSharpHW4/bin/Debug/net6.0/CSharpHW4
+/Users/virginialu/Projects/CSharpHW4/CSharpHW4/bin/Debug/net6.0/CSharpHW4.deps.json
+/Users/virginialu/Projects/CSharpHW4/CSharpHW4/bin/Debug/net6.0/CSharpHW4.runtimeconfig.json
+/Users/virginialu/Projects/CSharpHW4/CSharpHW4/bin/Debug/net6.0/CSharpHW4.dll
+/Users/virginialu/Projects/CSharpHW4/CSharpHW4/bin/Debug/net6.0/CSharpHW4.pdb
+/Users/virginialu/Projects/CSharpHW4/CSharpHW4/obj/Debug/net6.0/CSharpHW4.dll
+/Users/virginialu/Projects/CSharpHW4/CSharpHW4/obj/Debug/net6.0/refint/CSharpHW4.dll
+/Users/virginialu/Projects/CSharpHW4/CSharpHW4/obj/Debug/net6.0/CSharpHW4.pdb
+/Users/virginialu/Projects/CSharpHW4/CSharpHW4/obj/Debug/net6.0/CSharpHW4.genruntimeconfig.cache
+/Users/virginialu/Projects/CSharpHW4/CSharpHW4/obj/Debug/net6.0/ref/CSharpHW4.dll
